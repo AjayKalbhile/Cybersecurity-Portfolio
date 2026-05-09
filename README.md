@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&width=500&lines=Testing...+If+you+see+this%2C+it+works!" alt="test" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&width=650&lines=Ajay+Kalbhile+%F0%9F%9B%A1%EF%B8%8F;I+Break+Things+to+Protect+Them;Threat+Hunter+%7C+SOC+Analyst;CEH+%26+OSCP+in+Progress..." alt="Typing SVG" />
+
 <!-- Profile views + status badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=AjayKalbhile&label=Portfolio+Views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-kalbhile-89766a270)
