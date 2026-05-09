@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&width=600&lines=Your+Text+Here&_=1" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&width=500&lines=Testing...+If+you+see+this%2C+it+works!" alt="test" />
 <!-- Profile views + status badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=AjayKalbhile&label=Portfolio+Views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-kalbhile-89766a270)
