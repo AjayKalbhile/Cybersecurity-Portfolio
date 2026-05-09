@@ -7,7 +7,7 @@
 
 <!-- Profile views + status badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=AjayKalbhile&label=Portfolio+Views&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaykalbhile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-kalbhile-89766a270)
 [![Gmail](https://img.shields.io/badge/Email-ajaykalbhile31%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ajaykalbhile31@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Remote%20Roles-2ea44f?style=flat)](mailto:ajaykalbhile31@gmail.com)
 
