@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🛡️+Ajay's+Cybersecurity+Portfolio;SOC+Analyst+%7C+Threat+Hunter;Ethical+Hacker+in+the+Making;Detect.+Analyze.+Defend." alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&width=500&lines=Testing...+If+you+see+this%2C+it+works!" alt="test" />
 <br/>
 
 <!-- Profile views + status badges -->
